@@ -21,10 +21,19 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 
 
 ## History
+- 📄 [Early History](https://bitcoinmagazine.com/articles/history-lightning-brainstorm-beta/)
+- 📄 [LN Timeline](https://gcomte.github.io/lightning-timeline)
+- 🎥 [History of LN](https://www.youtube.com/watch?v=HauP9F16mUM)
+- 📄 [History of Lightning Torch](https://bitcoinmagazine.com/technical/lightning-torchs-bitcoin-payment-is-running-a-worldwide-marathon)
 
 ## Documentaries
+- 🎥 [Why Lightning Matters](https://www.youtube.com/watch?v=a3HulqfzyYE)
 
 ## Presentations
+- 🎥 [Andreas' Playlist](https://www.youtube.com/playlist?list=PLPQwGV1aLnTurL4wU_y3jOhBi9rrpsYyi)
+- 🎥 [Bolt-A-Thon Presentations](https://www.youtube.com/watch?v=a3HulqfzyYE)
+- 🎥 [Chaincode Lightning Residency](https://www.youtube.com/watch?v=aX7lOqf83h0&list=PLpLh23TRghT1SbxinAsNDS6L7RkAjC8ME)
+- 🎥 [Deep Dive with Olaoluwa](https://www.youtube.com/watch?v=b_szGaaPPFk)
 
 ## News Sites
 
