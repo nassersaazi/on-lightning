@@ -51,6 +51,8 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 
 ## Research
 
+## Books
+
 ## Miscellaneous Statistics
 
 ## Deep Dive Technical Resources
