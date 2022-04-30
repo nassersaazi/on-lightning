@@ -34,8 +34,22 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 🎥 [Bolt-A-Thon Presentations](https://www.youtube.com/channel/UCftBMWdw5M1EMdfFKSbHC9A/videos)
 - 🎥 [Chaincode Lightning Residency](https://www.youtube.com/watch?v=aX7lOqf83h0&list=PLpLh23TRghT1SbxinAsNDS6L7RkAjC8ME)
 - 🎥 [Deep Dive with Olaoluwa](https://www.youtube.com/watch?v=b_szGaaPPFk)
+- 🎥 [The Importance of Layer 2](https://youtu.be/3PcR4HWJnkY)
+- 🎥 [LN as a Directed Graph](https://www.youtube.com/watch?v=-lgYYz3y_hY)
+- 🎥 [Misconceptions about LN](https://www.youtube.com/watch?v=c4TjfaLgzj4)
+- 🎥 [Onion Routing explained](https://www.youtube.com/watch?v=toarjBSPFqI)
+- 🎥 [Submarine Swaps](https://www.youtube.com/watch?v=ASkyu0w_8Q8)
+- 🎥 [Unlinked Outsourced Channel Monitoring](https://www.youtube.com/watch?v=Gzg_u9gHc5Q&feature=youtu.be&t=48m12s)
 
 ## News Sites
+- 📄 [Bitcoin Lightning](https://www.bitcoinlightning.com/)
+- 📄 [Bitcoinist](https://bitcoinist.com/tag/lightning-network/)
+- 📄 [Bitcoin Magazine](https://bitcoinmagazine.com/tags/lightning-network/)
+- 📄 [The Block](https://www.theblockcrypto.com/tag/lightning-network/)
+- 📄 [Coin Telegraph](https://cointelegraph.com/tags/lightning-network)
+- 📄 [Lightning Labs Monthly newsletter](https://lightninglabs.substack.com/)
+- 📄 [Simple Lightning Newsletter](https://simplelightning.com/)
+
 
 ## Podcasts
 
