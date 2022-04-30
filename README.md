@@ -31,7 +31,7 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 
 ## Presentations
 - 🎥 [Andreas' Playlist](https://www.youtube.com/playlist?list=PLPQwGV1aLnTurL4wU_y3jOhBi9rrpsYyi)
-- 🎥 [Bolt-A-Thon Presentations](https://www.youtube.com/watch?v=a3HulqfzyYE)
+- 🎥 [Bolt-A-Thon Presentations](https://www.youtube.com/channel/UCftBMWdw5M1EMdfFKSbHC9A/videos)
 - 🎥 [Chaincode Lightning Residency](https://www.youtube.com/watch?v=aX7lOqf83h0&list=PLpLh23TRghT1SbxinAsNDS6L7RkAjC8ME)
 - 🎥 [Deep Dive with Olaoluwa](https://www.youtube.com/watch?v=b_szGaaPPFk)
 
