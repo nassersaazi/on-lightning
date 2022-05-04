@@ -86,6 +86,10 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 🎧 [LN Developers on Twitter](https://twitter.com/i/lists/981976067551490048)
 
 ## Applications
+- 🎧 [Lapps Directory](https://dev.lightning.community/lapps/index.html)
+- 🎧 [OpenTel](https://openline.telspark.com/)
+- 🎧 [Sphinx Chat](https://sphinx.chat/)
+- 🎧 [Zion](https://www.getzion.com/)
 
 ## Economics
 
