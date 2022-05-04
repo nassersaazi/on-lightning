@@ -115,3 +115,7 @@ Inspiration??
 - https://github.com/jlevy/on-books
 - https://www.lopp.net/lightning-information.html
 - https://github.com/rust-unofficial/awesome-rust
+
+TODOS//
+- Add table of contents 
+- Sort content alphabetically
