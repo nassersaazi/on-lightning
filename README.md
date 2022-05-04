@@ -106,6 +106,13 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 ## Books
 
 ## Miscellaneous Statistics
+- 📄 [Centrality stats](https://lnmetrics.opdup.com/)
+- 📄 [Channel metrics](https://ln.fiatjaf.com/)
+- 📄 [Network Capacity over time](https://txstats.com/dashboard/db/lightning-network)
+- 📄 [Network statistics](https://1ml.com/statistics)
+- 📄 [More Network statistics](https://bitcoinvisuals.com/lightning)
+- 📄 [Node History](https://ln.fiatjaf.com/)
+- 📄 [Penalty Transaction Monitor](https://forkmonitor.info/lightning)
 
 ## Deep Dive Technical Resources
 
