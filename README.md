@@ -52,6 +52,11 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 
 
 ## Podcasts
+- 🎧 [Lightning Junkies](https://lightningjunkies.net/)
+- 🎧 [LNCast](https://lncast.com/)
+- 🎧 [Noded](https://noded.org/podcast/)
+- 🎧 [Stephan Livera](https://stephanlivera.com/episodes)
+- 🎧 [Tales from the Crypt](https://talesfromthecrypt.libsyn.com/)
 
 ## Blogs
 
