@@ -92,6 +92,8 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 🎧 [Zion](https://www.getzion.com/)
 
 ## Economics
+- 📄 [The Time Value of Bitcoin](https://medium.com/@timevalueofbtc/the-time-value-of-bitcoin-3807b91f02d2)
+- 📄 [The LN Reference Rate](https://www.cryptofinance.ch/en/the-lightning-network-reference-rate-bitcoins-derivative-pricing/)
 
 ## Research
 
