@@ -57,8 +57,19 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 🎧 [Noded](https://noded.org/podcast/)
 - 🎧 [Stephan Livera](https://stephanlivera.com/episodes)
 - 🎧 [Tales from the Crypt](https://talesfromthecrypt.libsyn.com/)
+- 🎧 [The Coin Pod](https://open.spotify.com/show/5raGruI7FqmwCKY0l2sSuR)
+- 🎧 [Value 4 Value](https://podcastindex.org/podcast/value4value)
+- 🎧 [What Bitcoin Did](https://www.whatbitcoindid.com/lightning-network-special)
 
 ## Blogs
+- 📄 [ACINQ](https://medium.com/@ACINQ)
+- 📄 [Blockstream](https://blockstream.com/categories/lightning-network/)
+- 📄 [Breez](https://medium.com/breez-technology)
+- 📄 [Casa](https://blog.keys.casa/)
+- 📄 [Lightning Resources](https://medium.com/lightning-resources)
+- 📄 [Lightning Labs](https://blog.lightning.engineering/)
+- 📄 [Muun](https://medium.com/muunwallet)
+- 📄 [Rusty Russell](https://rusty-lightning.medium.com/)
 
 ## Discussion Forums
 
