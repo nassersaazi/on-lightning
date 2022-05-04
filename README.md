@@ -96,6 +96,12 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 📄 [The LN Reference Rate](https://www.cryptofinance.ch/en/the-lightning-network-reference-rate-bitcoins-derivative-pricing/)
 
 ## Research
+- 📄 [ACINQ](https://acinq.co/)
+- 📄 [Blockstream](https://blockstream.com/lightning/)
+- 📄 [L2 Tech](https://l2.technology/)
+- 📄 [Lightning Labs](https://lightning.engineering/)
+- 📄 [Spiral](https://spiral.xyz/)
+- 📄 [State of Lightning](https://www.research.arcane.no/the-state-of-lightning)
 
 ## Books
 
