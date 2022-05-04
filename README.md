@@ -83,6 +83,7 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 🎧 [General LN Telegram](https://t.me/lightning_network)
 
 ## Twitter
+- 🎧 [LN Developers on Twitter](https://twitter.com/i/lists/981976067551490048)
 
 ## Applications
 
