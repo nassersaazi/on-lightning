@@ -72,6 +72,15 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 📄 [Rusty Russell](https://rusty-lightning.medium.com/)
 
 ## Discussion Forums
+- 🎧 [Discord](https://discordapp.com/invite/sm2rfS7)
+- 🎧 [Developer Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)
+- 🎧 [Developer IRC](https://web.libera.chat/#lightning-dev)
+- 🎧 [LND Dev Slack](https://join.slack.com/t/lightningcommunity/shared_invite/enQtMzQ0OTQyNjE5NjU1LWRiMGNmOTZiNzU0MTVmYzc1ZGFkZTUyNzUwOGJjMjYwNWRkNWQzZWE3MTkwZjdjZGE5ZGNiNGVkMzI2MDU4ZTE)
+- 🎧 [Bitcoin Subreddit](https://www.reddit.com/r/Bitcoin/)
+- 🎧 [LN Subreddit](https://www.reddit.com/r/lightningnetwork/)
+- 🎧 [LN Subreddit 2](https://www.reddit.com/r/thelightningnetwork/)
+- 🎧 [Lapp Builder Telegram](https://t.me/joinchat/EFJwOxEZmjqjTBEx2883Hw)
+- 🎧 [General LN Telegram](https://t.me/lightning_network)
 
 ## Twitter
 
