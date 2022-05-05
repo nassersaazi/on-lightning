@@ -115,6 +115,13 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 📄 [Penalty Transaction Monitor](https://forkmonitor.info/lightning)
 
 ## Deep Dive Technical Resources
+- 📄 [Lightning Network Whitepaper](https://www.lopp.net/pdf/lightning-network-paper.pdf)
+- 📄 [LN Curriculum](https://github.com/chaincodelabs/lightning-curriculum)
+- 📄 [Mastering Lightning](https://lnbook.info/)
+- 📄 [LN Technical Specifications](https://github.com/lightningnetwork/lightning-rfc/blob/master/00-introduction.md)
+- 📄 [BOLT Blog Posts](https://rusty-lightning.medium.com/the-bitcoin-lightning-spec-part-1-8-a7720fb1b4da)
+- 📄 [Stack Exchange](https://bitcoin.stackexchange.com/questions/tagged/lightning-network)
+- 🎥 [Getting Started with core lightning](https://www.youtube.com/watch?v=fab4P3BIZxk&list=PLseHpvCI1BjAfUx8zjJXadlBh_eKV9zJi)
 
 ## Developer Documentation
 
