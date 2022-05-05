@@ -127,6 +127,30 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 📄 [LN Engineering Documentation](https://docs.lightning.engineering/)
 
 ## Developer Tools
+- 📄 [Boltbox](https://github.com/Tierion/boltbox)
+- 📄 [Boltwall](https://github.com/Tierion/boltwall)
+- 📄 [Channel Tools for LND](https://github.com/guggero/chantools)
+- 📄 [Lightning Dev Kit](https://lightningdevkit.org/)
+- 📄 [Lighter](https://gitlab.com/inbitcoin/lighter)
+- 📄 [LN API Paywall](https://github.com/philippgille/ln-paywall)
+- 📄 [lnet --> Simple Test Network Setup](https://github.com/cdecker/lnet)
+- 📄 [lnet-random --> Autogenerate Random Network with UI](https://github.com/rsbondi/lnet-random)
+- 📄 [lsat-js --> utility library for auth tokens](https://github.com/Tierion/lsat-js)
+- 📄 [Lightning Dissector --> wireshark plugin](https://github.com/nayutaco/lightning-dissector)
+- 📄 [Integration Testing Framework](https://github.com/cdecker/lightning-integration)
+- 📄 [Protocol Test Suite](https://github.com/rustyrussell/lnprototest)
+- 📄 [Java LND Client](http://www.lightningj.org/)
+- 📄 [Payment Request Decoder](https://lndecode.com/)
+- 📄 [Payment Request Decoder 2](https://lightningdecoder.com/)
+- 📄 [NodeJS LND gRPC library](https://www.npmjs.com/package/bitcoin-lightning-nodejs)
+- 📄 [PHP Core Lightning client](https://github.com/thorie7912/lightning-php)
+- 📄 [PHP LND client](https://github.com/ndeet/php-ln-lnd-grpc)
+- 📄 [Polar --> local regtest LN deployment](https://github.com/jamaljsr/polar)
+- 📄 [Python Invoice Generator](https://github.com/rustyrussell/lightning-payencode)
+- 📄 [relampago --> multi-implementation API wrapper](https://github.com/lnbits/relampago)
+- 📄 [REST Interface for LND](https://github.com/alexbosworth/ln-service)
+- 📄 [Sitzprobe --> core lightning plugin for auto-sending test payments](https://github.com/niftynei/sitzprobe)
+- 📄 [WebLN](https://webln.dev/)
 
 ## Node Management Tools
 
