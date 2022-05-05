@@ -124,6 +124,7 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 🎥 [Getting Started with core lightning](https://www.youtube.com/watch?v=fab4P3BIZxk&list=PLseHpvCI1BjAfUx8zjJXadlBh_eKV9zJi)
 
 ## Developer Documentation
+- 📄 [LN Engineering Documentation](https://docs.lightning.engineering/)
 
 ## Developer Tools
 
