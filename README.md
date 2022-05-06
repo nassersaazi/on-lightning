@@ -153,6 +153,33 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 📄 [WebLN](https://webln.dev/)
 
 ## Node Management Tools
+- 📄 [Balance of Satoshis](https://github.com/alexbosworth/balanceofsatoshis)
+- 📄 [Bitnoder](https://bitnoder.com/)
+- 📄 [C-simple core lightning mobile interface](https://github.com/darosior/c-simple)
+- 📄 [Circuit Breaker](https://github.com/lightningequipment/circuitbreaker)
+- 📄 [Charge LND](https://github.com/accumulator/charge-lnd)
+- 📄 [CLBOSS --> core lightning manager](https://github.com/ZmnSCPxj/clboss)
+- 📄 [Eye of Satoshi](https://github.com/talaia-labs/python-teos)
+- 📄 [Faraday --> LND insights](https://github.com/lightninglabs/faraday)
+- 📄 [Lightning Tools](https://github.com/ajpwahqgbi/lightning-tools)
+- 📄 [LND channel manager](https://github.com/bitromortac/lndmanage)
+- 📄 [LND channel rebalancer](https://github.com/grunch/ln-rebalance)
+- 📄 [LND channel rebalancer 2](https://github.com/C-Otto/rebalance-lnd)
+- 📄 [LNDg --> node automation](https://github.com/cryptosharks131/lndg)
+- 📄 [Lightweight Web Client for LND](https://github.com/mably/lncli-web)
+- 📄 [LNBits --> wallet/accounting software](https://github.com/lnbits/lnbits)
+- 📄 [LND Admin --> LND web UI](https://github.com/janoside/lnd-admin)
+- 📄 [LNDTop --> LND Terminal dashboard](https://github.com/edouardparis/lntop)
+- 📄 [LND Monitor --> dashboard](https://github.com/lightninglabs/lndmon)
+- 📄 [LND Pytools](https://github.com/Gridflare/lndpytools)
+- 📄 [Node Insight](https://lnnodeinsight.com/)
+- 📄 [Node Management Handbook](https://www.lightningnode.info/)
+- 📄 [Node Recovery Tools](https://www.node-recovery.com/)
+- 📄 [Rebalance LND](https://github.com/accumulator/rebalance-lnd)
+- 📄 [RTL --> web client for LND](https://github.com/Ride-The-Lightning/RTL)
+- 📄 [Suez --> channel fee manager](https://github.com/prusnak/suez)
+- 📄 [Thunderhub --> node manager](https://thunderhub.io/)
+- 📄 [Web Dashboard for LND](https://github.com/djmelik/lndash)
 
 ## Node Implementations
 
