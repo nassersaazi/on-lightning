@@ -191,6 +191,28 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 📄 [ptarmigan](https://github.com/nayutaco/ptarmigan)
 - 📄 [Rust Lightning](https://github.com/rust-bitcoin/rust-lightning)
 
+## Liquidity & Routing 
+- 📄 [Gridflare --> channel suggestions](https://gridflare.xyz/)
+- 📄 [Lightning Terminal --> self hosted dashboard](https://github.com/lightninglabs/lightning-terminal)
+- 📄 [Lightning Terminal --> web](https://terminal.lightning.engineering/)
+- 📄 [Liquidity Guide](https://docs.lightning.engineering/the-lightning-network/liquidity/manage-liquidity)
+- 📄 [LNRouter Tools](https://lnrouter.app/)
+- 📄 [Dunder --> open source LSP server](https://github.com/hsjoberg/dunder-lsp)
+- 📄 [Blocktank --> open source LSP server](https://github.com/synonymdev/blocktank-client)
+- 📄 [Nodes by BOS score](https://lightningwiki.net/bos/)
+- 📄 [Lightning+ Liquidity Swaps](https://lightningnetwork.plus/)
+- 📄 [Reddit Liquidity Swaps](https://www.reddit.com/r/TheLightningNetwork/search?sort=new&restrict_sr=on&q=flair%3ALiquidity%2BSwaps)
+- 📄 [Rings of Fire Liquidity Swaps](https://t.me/theRingsOfFire)
+- 📄 [Plebnet Swaps](https://t.me/Plebnet)
+- 📄 [Thor --> buy inbound liquidity](https://www.bitrefill.com/buy/lightning-channel/)
+- 📄 [Y'alls --> buy inbound liquidity](https://yalls.org/about/)
+- 📄 [LNBIG --> buy inbound liquidity](https://lnbig.com/#/open-channel)
+- 📄 [LN2Me --> open balanced channel](https://ln2me.com/)
+- 📄 [Lightning Loop --> swap on-chain & off-chain funds](https://github.com/lightninglabs/loop)
+- 📄 [Lightning Pool --> buy & sell liquidity](https://github.com/lightninglabs/pool)
+- 📄 [Lightning Pool Stats](https://yield.kollider.xyz/d/H9GxLqt7z/lnpool?orgId=1)
+
+
 ## Other Resources Lists
 - 📄 [Awesome Lightning Resources](https://github.com/bcongdon/awesome-lightning-network/blob/master/readme.md)
 - 📄 [Awesome lnurl](https://github.com/fiatjaf/awesome-lnurl)
