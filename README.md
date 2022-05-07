@@ -182,6 +182,14 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 📄 [Web Dashboard for LND](https://github.com/djmelik/lndash)
 
 ## Node Implementations
+- 📄 [Core Lightning](https://github.com/ElementsProject/lightning)
+- 📄 [Eclair](https://github.com/ACINQ/eclair)
+- 📄 [Lightning Peach Daemon](https://github.com/LightningPeach/lpd)
+- 📄 [lit](https://github.com/mit-dci/lit)
+- 📄 [LND](https://github.com/lightningnetwork/lnd)
+- 📄 [LNP Node](https://github.com/LNP-WG/lnp-node)
+- 📄 [ptarmigan](https://github.com/nayutaco/ptarmigan)
+- 📄 [Rust Lightning](https://github.com/rust-bitcoin/rust-lightning)
 
 ## Other Resources Lists
 
