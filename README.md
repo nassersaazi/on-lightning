@@ -192,6 +192,11 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 📄 [Rust Lightning](https://github.com/rust-bitcoin/rust-lightning)
 
 ## Other Resources Lists
+- 📄 [Awesome Lightning Resources](https://github.com/bcongdon/awesome-lightning-network/blob/master/readme.md)
+- 📄 [Awesome lnurl](https://github.com/fiatjaf/awesome-lnurl)
+- 📄 [Lightning Engineering](https://docs.lightning.engineering/community-resources/resource-list)
+- 📄 [Messari](https://messari.io/resource/lightning-network)
+- 📄 [ION Lightning Network Wiki](https://wiki.ion.radar.tech/)
 
 
 
