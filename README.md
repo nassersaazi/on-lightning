@@ -212,6 +212,24 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 📄 [Lightning Pool --> buy & sell liquidity](https://github.com/lightninglabs/pool)
 - 📄 [Lightning Pool Stats](https://yield.kollider.xyz/d/H9GxLqt7z/lnpool?orgId=1)
 
+## Desktop Wallets  
+- 📄 [Alby --> browser extension](https://getalby.com/)
+- 📄 [Comprehensive Wallet List](https://lightningnetworkstores.com/wallets)
+- 📄 [CoinOS --> Web wallet](https://coinos.io/login)
+- 📄 [Electrum](https://electrum.org/#home)
+- 📄 [Fulmo --> c-lightning](https://github.com/marzig76/fulmo)
+- 📄 [Lightning App --> for LND](https://github.com/lightninglabs/lightning-app)
+- 📄 [Joule --> browser extension](https://lightningjoule.com/)
+- 📄 [Peach](https://github.com/LightningPeach/peach-wallet-desktop)
+- 📄 [Mash --> Web Wallet Desktop & Mobile](https://getmash.com/wallet/)
+- 📄 [Spark --> for c-lightning](https://github.com/shesek/spark-wallet)
+- 📄 [Zap](https://zap.jackmallers.com/)
+
+
+## Mobile Wallets  
+
+## Custodial Wallets  
+
 
 ## Other Resources Lists
 - 📄 [Awesome Lightning Resources](https://github.com/bcongdon/awesome-lightning-network/blob/master/readme.md)
