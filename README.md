@@ -226,7 +226,23 @@ Please suggest additions to [@nassersaazi](https://twitter.com/nassersaazi) or
 - 📄 [Zap](https://zap.jackmallers.com/)
 
 
-## Mobile Wallets  
+## Mobile Wallets
+- 📄 [Lightning Wallets Features Comparison Table](https://docs.google.com/spreadsheets/d/1jzJ2Vut6q-cbr7bg3tshqJszJFLXpvi194os7GxQQ30/edit#gid=1531699029)
+- 📄 [Blixt Wallet --> Android & iOS](https://blixtwallet.github.io/)
+- 📄 [Breez --> Android & OS](https://github.com/breez/breezmobile)
+- 📄 [Eclair --> Android](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2)
+- 📄 [LastBit](https://lastbit.io/)
+- 📄 [Muun --> Android & iOS](https://muun.com/)
+- 📄 [Nayuta Core](https://nayuta.co/core/)
+- 📄 [Phoenix --> Android](https://phoenix.acinq.co/)
+- 📄 [Shango --> Android & iOS](https://github.com/neogeno/shango-lightning-wallet)
+- 📄 [Simple Bitcoin Wallet --> Android](https://sbw.app/)
+- 📄 [Strike.me --> Android & iOS & Chrome](https://beta.strike.me/download)
+- 📄 [Spark](https://github.com/shesek/spark-wallet)
+- 📄 [Swift Lightning --> iOS](https://github.com/biscottigelato/SwiftLightning)
+- 📄 [Zap --> iOS](https://github.com/LN-Zap/zap-iOS)
+- 📄 [Zeus --> Android & iOS](https://github.com/ZeusLN/zeus)
+
 
 ## Custodial Wallets  
 
